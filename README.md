@@ -1,5 +1,1 @@
-spam
-spam 23
-new file 
-something new 
-ok
+So update 1
